@@ -1,4 +1,4 @@
-# 🔭 Browser Secrets — Workshop DIY
+# 🔭 Browsers Secrets — Workshop DIY
 
 > **Explorez ensemble les pages cachées de Chrome et Edge !**
 > Un atelier parent-enfant à partir de 8 ans 🚀
@@ -44,7 +44,7 @@ Et elles sont fascinantes à explorer !
 ## 🚀 Lancer l'application
 
 ### En local (sans internet)
-1. Télécharge **`workshop-browser-secrets.html`**
+1. Télécharge **`workshop-browsers-secrets.html`**
 2. Ouvre-le dans **Google Chrome** ou **Microsoft Edge**
 3. Glisse-dépose le fichier dans le navigateur
 4. C'est tout — le fichier est autonome, tout est dedans ! 🎉
@@ -329,8 +329,8 @@ ou au surf 🏄                chrome://policy
 ## 🗂️ Fichiers du projet
 
 ```
-browser-secrets/
-├── 📄 workshop-browser-secrets.html   ← L'application complète
+browsers-secrets/
+├── 📄 workshop-browsers-secrets.html   ← L'application complète
 │                                        Chrome 🟢 + Edge 🔵 + 8 thèmes
 │                                        Tout intégré, 0 dépendance
 │
